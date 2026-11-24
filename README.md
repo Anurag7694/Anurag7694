@@ -1,0 +1,18 @@
+# 💫 About Me:
+## About Me – Anurag Shukla<br><br>I am Anurag Shukla, a Computer Science and Business Systems (CSBS) graduate from SIRT College, Bhopal, with a strong interest in Data Analytics and Business Intelligence.<br><br>I have hands-on experience in data analysis and visualization, with technical skills in SQL, Python, Microsoft Excel, Power BI, and PySpark. I have knowledge of data cleaning, data preprocessing, Exploratory Data Analysis (EDA), ETL processes, data transformation, SQL querying, and interactive dashboard development.<br><br>I have gained internship experience as a Data Analyst Intern at Reliance Jio and Syntecxhub, where I developed an understanding of practical data analytics workflows and industry-oriented tasks.<br><br>I have worked on several real-world data analytics projects, including **North India Rain Prediction Dashboard, Bank Loan Analysis Dashboard, Customer Shopping Behavior Analysis, and Student Performance Analysis**. Through these projects, I have developed practical experience in analyzing datasets, identifying trends, creating KPIs, and presenting meaningful insights through interactive Power BI dashboards.<br><br>I am passionate about learning new technologies, solving analytical problems, and transforming raw data into meaningful business insights. I am continuously improving my Python, SQL, and analytical skills to grow as a professional Data Analyst.<br><br>My career objective is to work as a Data Analyst in a growth-oriented organization where I can apply my technical knowledge, analytical thinking, and problem-solving abilities to support data-driven business decisions.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-shukla-5b392544b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragshukla7694@gmail.com) 
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anurag7694&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Anurag7694&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anurag7694&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Anurag7694&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
